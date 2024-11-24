@@ -6,7 +6,7 @@ class Splash_Body extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Column(
-      children: [],
+      children: [Text("BOOKLY")],
     );
   }
 }
